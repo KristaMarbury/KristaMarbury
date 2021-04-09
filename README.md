@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KristaMarbury
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning CSS and JavaScript
-- 💞️ I’m looking to collaborate on front end projects
+- 💞️ I’m looking to collaborate on awesome projects
 - 📫 How to reach me laetaiustus@gmail.com
 
 <!---
